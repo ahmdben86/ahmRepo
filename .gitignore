@@ -1,0 +1,23 @@
+# Fichiers IDEA
+*.ipr
+*.iws
+*.iml
+.idea/
+
+## Fichiers Eclipse
+.project
+.classpath
+.settings/
+.externalToolBuilders/
+
+# Fichiers de compilation projet
+test-classes/
+target/
+classes/
+
+# binaries
+*.class
+*.jar
+*.war
+*.ear
+/bin
