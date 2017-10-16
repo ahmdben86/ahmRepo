@@ -9,6 +9,7 @@
 .classpath
 .settings/
 .externalToolBuilders/
+.gitignore
 
 # Fichiers de compilation projet
 test-classes/
@@ -21,3 +22,4 @@ classes/
 *.war
 *.ear
 /bin
+/build/
